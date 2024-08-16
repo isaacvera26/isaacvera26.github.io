@@ -2,7 +2,7 @@
 layout: about
 title: Universidad de Guayaquil
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Edison Vera. isaac26vera12345@gmail.com. Curso: POO:2-8, 2024.
 
 profile:
   align: right
