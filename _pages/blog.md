@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /blog/
-title: blog
+title: Manual de Programación Orientada a Objeto
 nav: true
 nav_order: 1
 pagination:
