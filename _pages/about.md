@@ -2,11 +2,11 @@
 layout: about
 title: Universidad de Guayaquil
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Edison Vera. isaac26vera12345@gmail.com. POO:2-8, 2024.
+subtitle: <a href='#'></a>. Edison Vera. isaac26vera12345@gmail.com. POO:2-8, 2024.
 
 profile:
   align: right
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   image: img.png.jpeg
   more_info: >
     <p>Edison Isaac Vera Landazuri</p>
@@ -15,7 +15,7 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 Bienvenido a [Programación Orientada a Objeto]
