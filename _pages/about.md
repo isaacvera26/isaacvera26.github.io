@@ -13,7 +13,7 @@ profile:
     <p>Carrera Ingenieria de Software, Estudiante</p>
     <p>Guayaquil, Guayas</p>
   
-  align↙️
+  align: ↙️
   image: LogoUGcolor.png
   
 news: false # includes a list of news items
