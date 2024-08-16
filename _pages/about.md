@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Universidad de Guayaquil
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -18,7 +18,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Bienvenido a [Manual de Programación Orientada a Objeto]
+
+¡Hola y bienvenido a mi blog! Aquí encontrarás una mezcla única de ideas, consejos y reflexiones sobre [tema principal del blog, e.g., tecnología, estilo de vida, programación, etc.], soy Estudiante de Universidad de Guayaquil, Ecuador [subreddit](https://www.ug.edu.ec/). Mi objetivo es crear un espacio donde puedas aprender, inspirarte y compartir tus propias experiencias. 
+En un mundo donde la información abunda, quiero ofrecerte contenido relevante y bien investigado que realmente te aporte valor. Ya sea que estés aquí para resolver una duda, descubrir algo nuevo o simplemente pasar un buen rato leyendo, espero que disfrutes cada publicación.
+. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
