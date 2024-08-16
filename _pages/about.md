@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: D:\Isaac\Descargas\WhatsApp Image 2024-08-15 at 00.40.12.jpeg
+  image: 
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Edison Isaac Vera Landazuri</p>
