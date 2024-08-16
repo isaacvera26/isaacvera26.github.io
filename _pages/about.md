@@ -7,6 +7,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 profile:
   align: right
   image_circular: false # crops the image to make it circular
+  image: https://drive.google.com/file/d/1H-Wo1D8eCF27GkIypijr3IApAeMbhjhL/view?usp=drive_link
   more_info: >
     <p>Edison Isaac Vera Landazuri</p>
     <p>Carrera Ingenieria de Software, Estudiante</p>
