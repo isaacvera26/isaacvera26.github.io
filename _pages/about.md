@@ -12,7 +12,8 @@ profile:
     <p>Edison Isaac Vera Landazuri</p>
     <p>Carrera Ingenieria de Software, Estudiante</p>
     <p>Guayaquil, Guayas</p>
-
+  align↙️
+  image: LogoUGcolor.png
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
