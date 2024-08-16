@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Edison Isaac Vera Landazuri</p>
     <p>Carrera Ingenieria de Software, Estudiante</p>
-    <p>Guayaquil Guayas</p>
+    <p>Guayaquil, Guayas</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
