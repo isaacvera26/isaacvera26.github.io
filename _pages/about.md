@@ -7,7 +7,7 @@ subtitle: <a href='#'>Affiliations</a>. Edison Vera. isaac26vera12345@gmail.com.
 profile:
   align: right
   image_circular: true # crops the image to make it circular
-  image: prof_pic.png
+  image: img.png.jpeg
   more_info: >
     <p>Edison Isaac Vera Landazuri</p>
     <p>Carrera Ingenieria de Software, Estudiante</p>
