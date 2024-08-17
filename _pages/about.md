@@ -5,14 +5,11 @@ permalink: /
 subtitle: <a href='#'></a>. Edison Vera. isaac26vera12345@gmail.com. POO:2-8, 2024.
 
 profile:
-
-  align: right
-  image_circular: true # crops the image to make it circular
-  image: LogoUGcolor.png 
   
   align: right
   image_circular: true # crops the image to make it circular
   image: img.png.jpeg
+  image: LogoUGcolor.png
   more_info: >
     <p>Edison Isaac Vera Landazuri</p>
     <p>Carrera Ingenieria de Software, Estudiante</p>
