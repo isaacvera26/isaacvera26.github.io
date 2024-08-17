@@ -47,11 +47,11 @@ rss_icon: true
 # Layout
 # -----------------------------------------------------------------------------
 
-navbar_fixed: false
-footer_fixed: false
-search_enabled: false
+navbar_fixed: true
+footer_fixed: true
+search_enabled: true
 socials_in_search: true
-bib_search: false
+bib_search: true
 
 # Dimensions
 max_width: 930px
