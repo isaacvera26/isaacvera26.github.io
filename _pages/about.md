@@ -5,6 +5,7 @@ permalink: /
 subtitle: <a href='#'></a>. Edison Vera. isaac26vera12345@gmail.com. POO:2-8, 2024.
 
 profile:
+
   align: right
   image_circular: true # crops the image to make it circular
   image: LogoUGcolor.png 
