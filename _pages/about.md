@@ -1,8 +1,8 @@
 ---
 layout: about
-title: Universidad de Guayaquil
+title: El amor de mi vida
 permalink: /
-subtitle: <a href='#'></a>Edison Vera. isaac26vera12345@gmail.com. POO:2-8, 2024.
+subtitle: <a href='#'></a>Edison Vera. Dia de declaracion. 30 de Octubre, 2024.
 
 profile:
   
