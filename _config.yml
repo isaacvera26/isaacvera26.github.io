@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Programación Orientada a Objeto # the website title (if blank, full name will be used instead)
-first_name: Edison
-middle_name: L.
-last_name: Vera
+title: El amor de mi vida # the website title (if blank, full name will be used instead)
+first_name: Krystell
+middle_name: A.
+last_name: Vasconez
 email: you@example.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
