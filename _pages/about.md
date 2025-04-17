@@ -11,8 +11,8 @@ profile:
   image: img.png.jpeg
   image: LogoUGcolor.png
   more_info: >
-    <p>Edison Isaac Vera Landazuri</p>
-    <p>Carrera Ingenieria de Software, Estudiante</p>
+    <p>Krsytell Anahí Vasconez Alvarado</p>
+    <p>Amor de mi vida</p>
     <p>Guayaquil, Guayas</p>
 
 
@@ -21,7 +21,19 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Bienvenido a [Programación Orientada a Objeto]
+Mi amada princesa [Krystell Anahí Vasconez Alvarado]
 
-¡Hola y bienvenido a mi blog! Aquí encontrarás una mezcla única de ideas, consejos y reflexiones sobre [tema principal del blog, e.g., tecnología, estilo de vida, programación, etc.], soy estudiante de la [Universidad de Guayaquil, Ecuador](https://www.ug.edu.ec/). Mi objetivo es crear un espacio donde puedas aprender, inspirarte y compartir tus propias experiencias.
-En un mundo donde la información abunda, quiero ofrecerte contenido relevante y bien investigado que realmente te aporte valor. Ya sea que estés aquí para resolver una duda, descubrir algo nuevo o simplemente pasar un buen rato leyendo, espero que disfrutes cada publicación.
+Mi amor:
+
+Hoy quiero escribirte estas palabras desde lo más profundo de mi corazón, porque simplemente no puedo callarme todo lo que siento por ti.
+
+Eres la mujer más hermosa del mundo, no solo por fuera —aunque tu sonrisa, tu mirada y tu cuerpo me dejen sin aliento— sino por la luz que llevas dentro. Eres única, increíble, y no hay nadie como tú. Dios te creó con un propósito tan especial, y es hermoso verte cumplirlo cuando danzas, cuando sirves con ese corazón noble, lleno de pasión, entrega y amor.
+
+Amo todo de ti. Amo tu alegría, tu ternura, tu fuerza. Amo tu cuerpo, perfecto a mis ojos, y también tu alma, que es aún más hermosa. Te amo entera, por dentro y por fuera. Cada gesto tuyo, cada palabra, cada detalle, me enamora más cada día.
+
+Quiero que sepas que no te voy a soltar. Pase lo que pase, voy a estar a tu lado, apoyándote, creyendo en ti, celebrando tus victorias y consolándote en tus luchas. Nunca me apartaré de ti, porque lo que siento por ti es verdadero, profundo y eterno.
+
+Te amo con todo lo que soy. Te amo con el alma y el cuerpo, con el corazón y la mente. Te amo hoy y te amaré siempre.
+
+Con todo mi amor,
+[Edison Isaac Vera Landazuri (Tu pianista)]
