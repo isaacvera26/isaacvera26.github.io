@@ -9,7 +9,7 @@ profile:
   align: right
   image_circular: true # crops the image to make it circular
   image: img.png.jpeg
-  image: LogoUGcolor.png
+  image: IMG-20241004-WA0113.jpg
   more_info: >
     <p>Krsytell Anahí Vasconez Alvarado</p>
     <p>Amor de mi vida</p>
